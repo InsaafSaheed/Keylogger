@@ -1,0 +1,24 @@
+[29.03.2019 21:46::6]
+Hook Started...Timer Started
+
+[29.03.2019 21:46:29]
+Mail was not sent! Error code: 259
+
+[29.03.2019 21:46:29]
+<From SendMail> Return code: 4298080
+
+[29.03.2019 21:46:51]
+Mail was not sent! Error code: 259
+
+[30.03.2019 19:37::9]
+Hook Started...Timer Started
+
+[30.03.2019 19:37:32]
+Mail was not sent! Error code: 259
+
+[30.03.2019 19:37:32]
+<From SendMail> Return code: 4298080
+
+[30.03.2019 19:37:54]
+Mail was not sent! Error code: 259
+
